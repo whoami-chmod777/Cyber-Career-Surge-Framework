@@ -1,1 +1,44 @@
 
+# Create FOSS SIEM Lab
+• MISP
+• Elastic SIEM
+• Cortex
+• TheHive
+
+# Incident Detection and Response 
+ Wazuh
+
+# Security Monitoring and Incident Detection
+• Log Collection and Analysis
+
+# Incident Response and Handling
+• Incident Classification
+• Incident Prioritization
+
+# Windows Live Analysis/Live Forensics
+• Unusual Network Usage
+• Unusual Processes
+• Unusual Services
+• Unusual Reg Key Entries
+• Extra Startup Items
+• Ususual Accounts
+• Unusual Files
+• Unusual Scheduled Tasks
+• Unusual Log Entries
+
+# Windows Forensic Post Exploit Commands 
+
+# Windows Security Log Quick Reference
+
+# RAM Acquisition Process
+• Order of Volatility
+• Get Windows Memory Dump
+• Get Linux Memory Dump
+
+
+
+
+
+
+
+
