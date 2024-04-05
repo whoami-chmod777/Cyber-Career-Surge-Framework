@@ -1,1 +1,1 @@
-
+## Real-World cyber threats, defenders experience in  their networks and the tools used to defend against them. You will learn  defense strategies, threat-hunting techniques, adversary detection, and  how to investigate security intrusions and perform forensic analysis  through real world experience.
