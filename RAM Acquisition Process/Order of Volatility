@@ -12,3 +12,21 @@
 - Archived or Backup Data
 
 
+-- Type of data you will get from Volatile Data --
+
+▪ Running Processes
+▪ Network Connections
+▪ Open Files and Handles
+▪ Memory Contents
+▪ System Information
+▪ User Activities
+▪ System Logs
+▪ Cache and Temporary Files
+▪ Clipboard Contents
+▪ RAM Slack
+▪ Process Environment Variables
+▪ Kernel Data Structures
+▪ Memory-Mapped Files
+▪ Windows Registry Contents
+▪ System Cache
+▪ Runtime Artifacts
