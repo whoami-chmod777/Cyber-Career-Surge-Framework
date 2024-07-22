@@ -1,7 +1,7 @@
 
 -- Unusual Network Usage --
 
-• Look at file shares and make sure each has a defined business purpose net view
+• Look at file shares and make sure each has a defined business purpose. (net view)
 • Look at who has an open session with the machine. (net session)
 • Look at which sessions this machine has opened with other system. (net use)
 • Look at NetBIOS over TCP/IP activity. (netstat -s)
