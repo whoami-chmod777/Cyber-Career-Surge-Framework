@@ -40,7 +40,7 @@ C:\Windows\System32>schtasks
 11 File Creation Events
 12, 13, 14 Registry Objects
 15 FileCreateStreamHash
-17 and 18: Pipe Events
+17 and 18 Pipe Events
 22 DNSEvents
 4624 Successful logon
 4625 Failed logon
